@@ -5,3 +5,5 @@
 
  ## Instructions
  Clone or download the files, and run `npm install` in the project directory.
+
+ To run the tests, run `npm test`.
